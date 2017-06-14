@@ -1,4 +1,4 @@
-(defproject svb-api "0.1.0-SNAPSHOT"
+(defproject svb-api "0.1.0"
   :description "Silicon Valley Bank Clojure API SDK"
   :url "http://docs.svbplatform.com"
   :license {:name "Eclipse Public License"
